@@ -2,11 +2,11 @@
 
 ### Adding a new language (requires Visual Studio 2019 and Multilingual App Toolkit)
 
-- Ensure you have Visual Studio 2019 and
+- Ensure you have Visual Studio 2022 and
   the [Multilingual App Toolkit extension](https://marketplace.visualstudio.com/items?itemName=MultilingualAppToolkit.MultilingualAppToolkit-18308)
   .
 - Fork and clone the Files [repository](https://github.com/files-community/files/).
-- Open in VS 2019.
+- Open in VS 2022.
 - Right-click on the `Files (Universal Windows)` project.
 - Select Multilingual App Toolkit > Add translation language.
     - If you get a message saying "Translation Provider Manager Issue," just click OK and ignore it. It's unrelated to
